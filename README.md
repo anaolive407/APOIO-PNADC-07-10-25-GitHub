@@ -36,7 +36,7 @@ Os seguintes arquivos de suporte são necessários e devem estar na pasta de tra
 * `input_PNADC_trimestral.txt`: Arquivo de layout para leitura dos microdados.
 * `cnae_mapping.rds` e `nomes_ocupacao.rds`: Arquivos RDS com mapeamentos de códigos para descrições de atividades e ocupações.
 * `pnad_auditoria_amostra_estratificada_limpa.rds`: Base de dados amostral e estratificada (reduzida) criada para auditar o funcionamento das análises econométricas (PSM, Oaxaca-Blinder, Regressão Quantílica). Atenção: Devido ao tamanho reduzido, os resultados replicados não serão idênticos aos da tese, mas devem apresentar o mesmo comportamento e direção.
-* `pnad_final_21_06_25.rds`: (Opcional) está disponível a Base de dados já consolidada para pular a demorada etapa inicial de importação, principalmente se a memória da sua máquina não for suficiente.
+* `pnad_final_21_06_25.rds`: (Opcional) está disponível a Base de dados já consolidada para pular a demorada etapa inicial de importação, principalmente se a memória da sua máquina não for suficiente. Veja em <https://www.dropbox.com/scl/fo/ccr47t41bm73qef7ay7k4/AKaHW1or-y7rDKuiiTrkq0Y?rlkey=2c1cb1vkrbxipt27lq0n42e1y&st=27v5m159&dl=0>
 
 --------------------------------------------------------------------------------
 3. CONFIGURAÇÃO E EXECUÇÃO DO SCRIPT
