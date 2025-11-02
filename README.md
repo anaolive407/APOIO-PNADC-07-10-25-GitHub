@@ -50,7 +50,8 @@ Os seguintes arquivos de suporte são necessários e devem estar na pasta de tra
 * **Tratamento e Dummies: fastDummies 
 * **Relatório e Tabelas: writexl, openxlsx, readxl, tableone, broom, forcats 
 * **Econometria e Testes: Matching, oaxaca, quantreg, nortest, car, lmtest 	
-* **Otimização (Paralelização): doParallel, foreach						   |
+* **Otimização (Paralelização): doParallel, foreach						   
+
 
 ### 3.2. Estrutura e Ordem de Execução
 O projeto está contido em um único script. **A única ação manual obrigatória é alterar a linha `setwd("...")` no início do código** para o caminho da sua pasta de projeto.
